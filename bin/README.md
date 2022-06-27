@@ -57,8 +57,10 @@ Ada sepuluh fitur Dart yang menjadikannya salah satu bahasa pemrograman populer,
 - [How to implement in a Flutter Project]()
 - [Used Languages](#Used-Languages)
 
-# Implementation
-
 # 01 Dart programming
 
 ![screenshot](../assets/result/01.png)
+
+# 02 Variable
+
+![screenshot](../assets/result/02.png)
