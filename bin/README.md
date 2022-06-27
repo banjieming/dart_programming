@@ -1,4 +1,4 @@
-# Dart Programming
+# Bahasa Pemrograman Dart
 
 Bahasa pemrograman multiguna (bahasa pemrograman dengan tujuan umum), Dart, yang dapat digunakan dalam mengembangkan berbagai jenis aplikasi dan program yang digunakan dalam mengembangkan aplikasi web, aplikasi seluler, aplikasi desktop, server, dll.
 
@@ -8,8 +8,8 @@ Dart awalnya dirancang sebagai programming language yang dioptimalkan klien untu
 
 ## Contents
 
-- [Prerequisites](#Prerequisites)
-- [What Internationalization and Localization]()
+- [01_DAY1_dart_programming.dart](#Prerequisites)
+- [02_DAY1_Variable.dart]()
 - [Why it is Important]()
 - [When we use]()
 - [How to implement in a Flutter Project]()
