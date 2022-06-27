@@ -50,11 +50,11 @@ Ada sepuluh fitur Dart yang menjadikannya salah satu bahasa pemrograman populer,
 
 ## Contents
 
-- [01_DAY1_dart_programming.dart](#01-Dart-programming)
-- [02_DAY1_Variable.dart]()
-- [Why it is Important]()
-- [When we use]()
-- [How to implement in a Flutter Project]()
+- [01_DAY1_dart_programming](#01-Dart-programming)
+- [02_DAY1_Variable.dart](#02Variable)
+- [03_DAY1_String_Basics](#03-String-Basics)
+- [04_DAY1_Data_Types_String_ints_bool](#04-Data-Types_String_ints_bool)
+- [05_DAY1_Numbers_ints_doubles]()
 - [Used Languages](#Used-Languages)
 
 # 01 Dart programming
@@ -68,3 +68,11 @@ Ada sepuluh fitur Dart yang menjadikannya salah satu bahasa pemrograman populer,
 # 03 String Basics
 
 ![screenshot](../assets/result/03.png)
+
+# 04 Data Types_String_ints_bool
+
+![screenshot](../assets/result/04.png)
+
+# 05 Numbers ints and doubles
+
+![screenshot](../assets/result/05.png)
