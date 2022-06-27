@@ -50,7 +50,7 @@ Ada sepuluh fitur Dart yang menjadikannya salah satu bahasa pemrograman populer,
 
 ## Contents
 
-- [01_DAY1_dart_programming.dart](#Dart-programming)
+- [01_DAY1_dart_programming.dart](#Dart programming)
 - [02_DAY1_Variable.dart]()
 - [Why it is Important]()
 - [When we use]()
