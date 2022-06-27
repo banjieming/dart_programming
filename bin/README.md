@@ -1,12 +1,10 @@
-# Flutter localization ✨
+# Dart Programming
 
-![screenshot](assets/images/pic.png)
+Bahasa pemrograman multiguna (bahasa pemrograman dengan tujuan umum), Dart, yang dapat digunakan dalam mengembangkan berbagai jenis aplikasi dan program yang digunakan dalam mengembangkan aplikasi web, aplikasi seluler, aplikasi desktop, server, dll.
 
-# Introduction
+Dart merupakan programming language lintas platform atau platform independen yang artinya dapat dijalankan pada sistem operasi yang berbeda seperti Windows, Linux, Unix dan MacOS, dll yang awalnya dikembangkan oleh Google dan kemudian disetujui sebagai standar oleh Ecma, yang saat ini digunakan untuk membangun aplikasi web, server, desktop, dan seluler.
 
-Internationalizing Flutter apps with [GetX](https://pub.dev/packages/get)
-
-In this example app, I will share a little bit what about Localization and Internationalization.
+Dart awalnya dirancang sebagai programming language yang dioptimalkan klien untuk pengembangan cepat aplikasi web dan seluler.
 
 ## Contents
 
