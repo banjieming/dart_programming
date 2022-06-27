@@ -64,3 +64,7 @@ Ada sepuluh fitur Dart yang menjadikannya salah satu bahasa pemrograman populer,
 # 02 Variable
 
 ![screenshot](../assets/result/02.png)
+
+# 03 String Basics
+
+![screenshot](../assets/result/03.png)
