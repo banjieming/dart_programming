@@ -76,3 +76,7 @@ Ada sepuluh fitur Dart yang menjadikannya salah satu bahasa pemrograman populer,
 # 05 Numbers ints and doubles
 
 ![screenshot](../assets/result/05.png)
+
+# 06 Getter User Input
+
+![screenshot](../assets/result/06.png)
